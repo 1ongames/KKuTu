@@ -1,6 +1,6 @@
 {
-	"server-name": "My KKuTu Server",
-	"web-num-cpu": 1,
-	"game-num-cpu": 1,
-	"game-num-inst": 1
+	"server-name": "씨앗끄투",
+	"web-num-cpu": 8,
+	"game-num-cpu": 16,
+	"game-num-inst": 2
 }
